@@ -7,6 +7,7 @@ namespace Сведения_о_сотрудниках
     {
         public FormMenu()
         {
+            //сохраните меня!!!
             InitializeComponent();
         }
 
