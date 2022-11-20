@@ -7,7 +7,6 @@ namespace Сведения_о_сотрудниках
     {
         public FormMenu()
         {
-            // Сохранение изменений в репозиторий!
             InitializeComponent();
         }
 
